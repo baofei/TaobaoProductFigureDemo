@@ -1,0 +1,2 @@
+# TaobaoProductFigureDemo
+仿淘宝左滑到一定程度放手触发事件
