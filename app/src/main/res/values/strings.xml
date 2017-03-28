@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaobaoProductFigureDemo</string>
+
+    <string name="product_photo_view_foot_left">滑动查看图文详情</string>
+    <string name="product_photo_view_foot_release">释放查看图文详情</string>
+
+</resources>
